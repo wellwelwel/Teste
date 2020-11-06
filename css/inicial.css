@@ -1,0 +1,19 @@
+body {
+
+   background-color: rgb(37, 37, 37);
+   font-size: 14px;
+   color: #FFF;
+   font-family: monospace;
+}
+
+.cinza-escuro {
+
+   background-color: lightslategrey;
+}
+
+.flex-center {
+
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}

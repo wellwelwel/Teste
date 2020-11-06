@@ -1,0 +1,11 @@
+section {
+   
+   width: 100%;
+   min-height: calc(100vh - 80px - 40px);
+   flex-direction: column;
+}
+
+section img {
+
+   width: 150px;
+}
