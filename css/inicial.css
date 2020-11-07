@@ -3,7 +3,14 @@ body {
    background-color: rgb(37, 37, 37);
    font-size: 14px;
    color: #FFF;
-   font-family: monospace;
+   font-family: 'Comfortaa', cursive;
+   letter-spacing: 1.5px;
+   word-spacing: 1.5px;
+}
+
+.suave {
+
+   transition: background-color .5s ease, color .25s ease;
 }
 
 .cinza-escuro {
